@@ -1,4 +1,4 @@
-# basic-js-practice-Tumpa4 This repository represents-
+This repository represents-
 1) Server side and client side of GEE JS;
 2) How to perform basic arithmetic operation by using server side objects (ee.Number());
 3) How to perform basic logical operation by using server side objects (equal, less than, greater than);
